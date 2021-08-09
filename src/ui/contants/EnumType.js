@@ -1,0 +1,6 @@
+export const HTTP_VERB = { GET: "GET", POST: "POST", PUT: "PUT" };
+export const HTTP_STATUS = {
+  SUCCESS: 200,
+  INTERNAL_SERVER_ERROR: 500,
+  BAD_REQUEST: 400,
+};

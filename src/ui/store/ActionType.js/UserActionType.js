@@ -1,0 +1,1 @@
+export const MAP_USER_DETAIL="MAP_USER_DETAIL";

@@ -1,0 +1,1 @@
+export const MAP_AGE_INFO="MAP_AGE_INFO"
